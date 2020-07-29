@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cherryred5959)](https://github.com/anuraghazra/github-readme-stats)
+
+
+📊 **This week I spent my time on**
+
+<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=cherryred5959&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
