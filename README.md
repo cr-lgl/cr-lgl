@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP        7 mins          █████████████████████████   99.56 % 
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka-->
