@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cherryred5959&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
