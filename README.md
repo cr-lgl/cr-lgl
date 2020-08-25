@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP              6 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   41.95 % 
-Blade Template   5 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   34.53 % 
-SCSS             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Docker           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-JSON             30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+PHP              4 hrs 21 mins   ███████████░░░░░░░░░░░░░░   43.54 % 
+Blade Template   2 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Docker           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Makefile         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+SCSS             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 <!--END_SECTION:waka-->
