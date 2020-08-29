@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Docker     38 mins         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-PHP        33 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Makefile   27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-YAML       23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Markdown   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Markdown     18 mins         ██████████░░░░░░░░░░░░░░░   42.17 % 
+PHP          10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Makefile     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 <!--END_SECTION:waka-->
