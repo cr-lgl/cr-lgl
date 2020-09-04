@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   30 mins         ████████████████████░░░░░   81.14 % 
+Vue.js     5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 <!--END_SECTION:waka-->
