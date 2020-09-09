@@ -4,8 +4,6 @@ https:://ceobe.dev/
 
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@cr-lgl" frameborder="0"></iframe>
-
 <!--START_SECTION:waka-->
 ```text
 Markdown     7 hrs 33 mins   ███████████████████░░░░░░   78.62 % 
