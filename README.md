@@ -1,6 +1,6 @@
-### 👋 
+### Want to lose weight...
 
-https://ceobe.dev/
+My Blog: https://ceobe.dev/
 
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
