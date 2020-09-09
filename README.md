@@ -2,7 +2,7 @@
 
 My Blog: https://ceobe.dev/
 
-![image](https://github.com/cr-lgl/cr-lgl/blob/master/image.jpeg?raw=true)
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/image.jpeg" style="width: 100px; text-align: center;">
 
 **Skills:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
