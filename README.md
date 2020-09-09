@@ -4,6 +4,8 @@ My Blog: https://ceobe.dev/
 
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![cherry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-lgl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 Markdown     7 hrs 33 mins   ███████████████████░░░░░░   78.62 % 
