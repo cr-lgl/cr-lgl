@@ -17,10 +17,10 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     11 hrs 58 mins  ████████████░░░░░░░░░░░░░   50.37 % 
-PHP          5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Vue.js       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JavaScript   1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Markdown     11 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   39.48 % 
+PHP          11 hrs 36 mins  █████████░░░░░░░░░░░░░░░░   38.30 % 
+Vue.js       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JavaScript   1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+JSON         51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 <!--END_SECTION:waka-->
