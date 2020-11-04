@@ -17,10 +17,10 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Docker            3 hrs 1 min     ██████████████░░░░░░░░░░░   59.45 % 
-PHP               1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   26.67 % 
-Protocol Buffer   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Makefile          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+PHP               1 hr 43 mins    ██████████████████░░░░░░░   72.74 % 
+Protocol Buffer   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Makefile          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Docker            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 <!--END_SECTION:waka-->
