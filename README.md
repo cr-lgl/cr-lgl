@@ -17,10 +17,7 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin       1 hr 10 mins    ████████████░░░░░░░░░░░░░   50.87 % 
-YAML         35 mins         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Properties   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Docker       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Kotlin       0 secs          ███████████████░░░░░░░░░░   63.43 % 
+Properties   0 secs          █████████░░░░░░░░░░░░░░░░   36.57 %
 ```
 <!--END_SECTION:waka-->
