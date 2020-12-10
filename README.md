@@ -17,7 +17,6 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin       0 secs          ███████████████░░░░░░░░░░   63.43 % 
-Properties   0 secs          █████████░░░░░░░░░░░░░░░░   36.57 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
