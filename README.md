@@ -17,10 +17,10 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Java         8 hrs 27 mins   ███████████░░░░░░░░░░░░░░   45.45 % 
-YAML         3 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Other        1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Properties   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Groovy       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Java         7 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.90 % 
+YAML         2 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Other        1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Properties   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Groovy       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 <!--END_SECTION:waka-->
