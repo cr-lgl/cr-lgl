@@ -17,10 +17,6 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Java         42 mins         ███████████████████░░░░░░   78.06 % 
-HTML         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Groovy       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Properties   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Java   15 mins         █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
