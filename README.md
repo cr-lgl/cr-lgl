@@ -17,10 +17,6 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-PHP        5 mins          █████████████████████░░░░   84.25 % 
-JSON       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
