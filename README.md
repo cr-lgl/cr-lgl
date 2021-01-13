@@ -17,6 +17,10 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java       56 mins         █████████████████████████   99.87 % 
+PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
