@@ -17,9 +17,8 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 19 mins   ████████████████████████░   96.58 % 
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java      58 mins         ████████████████████████░   97.46 % 
+Other     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+GraphQL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 <!--END_SECTION:waka-->
