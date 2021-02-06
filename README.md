@@ -17,7 +17,7 @@ My Blog: https://ceobe.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Makefile   17 mins         ██████████████░░░░░░░░░░░   57.25 % 
-Java       12 mins         ██████████░░░░░░░░░░░░░░░   42.75 %
+PHP        16 mins         ███████████████████████░░   93.14 % 
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 <!--END_SECTION:waka-->
