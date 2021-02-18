@@ -1,0 +1,20 @@
+name: Blog Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 1am UTC
+    - cron: '1 0 * * *'
+
+jobs:
+  update-blog:
+    name: Update Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          commit_message: "Update blog data"
+          feed_list: "https://ceobe.dev/rss.xml"
+          max_post_count: 5
