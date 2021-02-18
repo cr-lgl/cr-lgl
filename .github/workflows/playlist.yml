@@ -7,21 +7,14 @@ on:
     - cron: '2 0 * * *'
 
 jobs:
-  update-kpop:
+  update-playlist:
     name: Update Playlist
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "KPOP"
-          commit_message: "Update K-pop playlist data"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLud7IEoxEsoV7X01Y2JMPA_NYthU0755G"
-          disable_sort: true
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "POP"
-          commit_message: "Update Pop playlist data"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLud7IEoxEsoU8IC6tfIsG2EnhdJzLWHbd"
-          disable_sort: true
+          comment_tag_name: "PLAYLIST"
+          commit_message: "Update playlist data"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLud7IEoxEsoV-NA6CIIKPnTRVAgcpF5YS"
+          max_post_count: 15

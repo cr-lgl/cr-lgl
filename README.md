@@ -69,30 +69,18 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ## Hobby
 
-#### Games:
-<p>
+**Games:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
-</p>
 
-#### Musics: 
-###### K-pop
-<!-- KPOP:START -->
-- [괜찮은 척](https://www.youtube.com/watch?v=Ghgk5OG9dB4)
-- [수고했어요](https://www.youtube.com/watch?v=FPxJE75TO-E)
-- [회사다녀요](https://www.youtube.com/watch?v=eRh1kPgNp7Q)
-- [Maybe I](https://www.youtube.com/watch?v=8gl63OTbdL4)
-- [알잖아 You Know](https://www.youtube.com/watch?v=2a6YQs4eYDU)
-<!-- KPOP:END -->
-
-###### Pop
-<!-- POP:START -->
-- [Lie](https://www.youtube.com/watch?v=J5DNZ2r5Sx4)
-- [Empty](https://www.youtube.com/watch?v=DznvyQjQMpE)
-- [Dead](https://www.youtube.com/watch?v=VRq2e5sr4qQ)
-- [Say You Love Me](https://www.youtube.com/watch?v=EHZ_lSTopy8)
-- [Skin to Skin](https://www.youtube.com/watch?v=VPjdiY3SGe8)
-<!-- POP:END -->
+**Musics:**  
+<!-- PLAYLIST:START -->
+- [Like a Joke (Feat. Jae Luna, amin)](https://www.youtube.com/watch?v=n9xduxcEjP8)
+- [Autumn breeze (Feat. Milky Day)](https://www.youtube.com/watch?v=Xp6i0hh-Xb4)
+- [See you (with Noair, Nason)](https://www.youtube.com/watch?v=5ogEEJxWVUA)
+- [500 Days (Feat. Jae Luna & I AM LUU)](https://www.youtube.com/watch?v=bk2CyuPqzL8)
+- [Mm Mm (Prod. Cosmic Boy)](https://www.youtube.com/watch?v=PIYxMzrjJMs)
+<!-- PLAYLIST:END -->
 
 ## Connect With Me
 https://www.notion.so/8cd33b6091d94622a754aff11832282c
