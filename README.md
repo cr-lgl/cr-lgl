@@ -75,11 +75,21 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 **Musics:**  
 <!-- PLAYLIST:START -->
-- [Like a Joke (Feat. Jae Luna, amin)](https://www.youtube.com/watch?v=n9xduxcEjP8)
-- [Autumn breeze (Feat. Milky Day)](https://www.youtube.com/watch?v=Xp6i0hh-Xb4)
-- [See you (with Noair, Nason)](https://www.youtube.com/watch?v=5ogEEJxWVUA)
-- [500 Days (Feat. Jae Luna & I AM LUU)](https://www.youtube.com/watch?v=bk2CyuPqzL8)
-- [Mm Mm (Prod. Cosmic Boy)](https://www.youtube.com/watch?v=PIYxMzrjJMs)
+- [why (Feat. Jayci yucca)](https://www.youtube.com/watch?v=IdGv9sPOnms)
+- [Like Aewol](https://www.youtube.com/watch?v=CZVGLbTksLc)
+- [Let It Go](https://www.youtube.com/watch?v=SvTnyKhzTnY)
+- [flying to the moon](https://www.youtube.com/watch?v=qO2czBgBioY)
+- [Thinking of me (Feat. Skinny Brown)](https://www.youtube.com/watch?v=a42Cz5iX48U)
+- [Escape (Feat. Grizzly)](https://www.youtube.com/watch?v=TwwKNEPC8FM)
+- [소나기 Flashback](https://www.youtube.com/watch?v=6MX2w8oK4pE)
+- [고마워 THX](https://www.youtube.com/watch?v=MgR0TazDSVs)
+- [Insomnia (feat. YAYYOUNG)](https://www.youtube.com/watch?v=UgN8JJrsNwE)
+- [OCEAN (너의 바다 (Feat. 김호연))](https://www.youtube.com/watch?v=BL86DLQscCg)
+- [YOU](https://www.youtube.com/watch?v=hjgLf7VEXuU)
+- [Look At Me Now](https://www.youtube.com/watch?v=RWabpd7ah5E)
+- [Now (너의 지금)](https://www.youtube.com/watch?v=NBtdL4Idl3M)
+- [Straw](https://www.youtube.com/watch?v=qgiyGQ5skq0)
+- [4cm (Feat. Wilcox)](https://www.youtube.com/watch?v=Ao8pGi6yN_k)
 <!-- PLAYLIST:END -->
 
 ## Connect With Me
