@@ -1,4 +1,4 @@
-<h2> <img src="https://github.com/cr-lgl/cr-lgl/blob/master/moew_no.png?raw=true" width="30"/> It works... why? </h2>
+<h2> <img src="https://github.com/cr-lgl/cr-lgl/blob/master/meow_no.png?raw=true" width="30"/> It works... why? </h2>
 
 ![image](https://github.com/cr-lgl/cr-lgl/blob/master/header.png?raw=true)
 
