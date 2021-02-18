@@ -1,0 +1,26 @@
+name: Playlist Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-kpop:
+    name: Update K-pop Playlist
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@1.4.9
+        with:
+          comment_tag_name: "KPOP"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLud7IEoxEsoV7X01Y2JMPA_NYthU0755G"
+
+  update-pop:
+    name: Update Pop Playlist
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@1.4.9
+        with:
+          comment_tag_name: "POP"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLud7IEoxEsoU8IC6tfIsG2EnhdJzLWHbd"
