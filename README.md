@@ -1,16 +1,52 @@
-### Want to lose weight...😂
+<h2> <img src="https://github.com/cr-lgl/cr-lgl/blob/master/moew_no.png?raw=true" width="30"/> It works... why? </h2>
 
-My Blog: https://ceobe.dev/
+![image](https://github.com/cr-lgl/cr-lgl/blob/master/header.png?raw=true)
 
-![image](https://github.com/cr-lgl/cr-lgl/blob/master/image.jpeg?raw=true)
-
+### My Skill Set
 **Skills:**  
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png">
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/php.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/composer.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/laravel.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/doctrine.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/symfony.svg?raw=true" width="40" height="40"/>
 
 **Interesting:**  
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/java.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/kotlin.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/gradle.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/spring.svg?raw=true" width="40" height="40"/>
+
+**Others:**
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/docker.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/codeigniter.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/node.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/npm.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/gatsby.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/javascript.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webpack.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/babel.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/vuejs.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/jquery.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/html5.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/css.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/sass.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/bootstrap.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/mysql.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/redis.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/apache.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/nginx.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/jenkins.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/ubuntu.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/git.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/github.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/confluence.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/slack.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/chrome.svg?raw=true" width="40" height="40"/>
+
+**IDE:**
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/phpstorm.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webstorm.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/intellij.svg?raw=true" width="40" height="40"/>
 
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl)](https://github.com/anuraghazra/github-readme-stats)
 [![cherry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-lgl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,3 +60,13 @@ Docker     11 mins         ░░░░░░░░░░░░░░░░░�
 Makefile   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 <!--END_SECTION:waka-->
+
+### Hobby
+
+**Games:**
+<img src="assets/arknights.svg" width="40" height="40" />
+<img src="assets/lol.jpg" width="40" height="40" />
+
+
+### Connect With Me
+[notion](https://www.notion.so/8cd33b6091d94622a754aff11832282c)
