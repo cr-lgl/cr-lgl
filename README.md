@@ -2,7 +2,10 @@
 
 ![image](https://github.com/cr-lgl/cr-lgl/blob/master/header.png?raw=true)
 
-### My Skill Set
+- I am currently working at [MeshKorea](https://meshkorea.net/kr/index.html).
+- You can know more about me through [my blog](https://ceobe.dev/about).
+
+## Skill Set
 **Skills:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/php.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/composer.svg?raw=true" width="40" height="40"/>
@@ -48,7 +51,10 @@
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webstorm.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/intellij.svg?raw=true" width="40" height="40"/>
 
+## Statistics(purely personal time)
+
 [![cherry's github stats](https://github-readme-stats.vercel.app/api?username=cr-lgl)](https://github.com/anuraghazra/github-readme-stats)
+
 [![cherry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-lgl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
@@ -61,12 +67,11 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### Hobby
+## Hobby
 
 **Games:**  
 <img src="assets/arknights.svg" width="40" height="40" />
 <img src="assets/lol.jpg" width="40" height="40" />
 
-
-### Connect With Me
-[notion](https://www.notion.so/8cd33b6091d94622a754aff11832282c)
+## Connect With Me
+https://www.notion.so/8cd33b6091d94622a754aff11832282c
