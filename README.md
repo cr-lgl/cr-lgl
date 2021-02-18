@@ -63,7 +63,7 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ### Hobby
 
-**Games:**
+**Games:**  
 <img src="assets/arknights.svg" width="40" height="40" />
 <img src="assets/lol.jpg" width="40" height="40" />
 
