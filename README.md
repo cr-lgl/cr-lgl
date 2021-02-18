@@ -87,11 +87,11 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ###### Pop
 <!-- POP:START -->
-- [It's Ok If You Forget Me](https://www.youtube.com/watch?v=_J5qV8EMii4)
 - [Lie](https://www.youtube.com/watch?v=J5DNZ2r5Sx4)
-- [Brooklyn Love](https://www.youtube.com/watch?v=XK0aP3brQuY)
-- [Under / Over](https://www.youtube.com/watch?v=GE2Q0_8KcWM)
-- [Bubble](https://www.youtube.com/watch?v=hIETwSeJoNQ)
+- [Empty](https://www.youtube.com/watch?v=DznvyQjQMpE)
+- [Dead](https://www.youtube.com/watch?v=VRq2e5sr4qQ)
+- [Say You Love Me](https://www.youtube.com/watch?v=EHZ_lSTopy8)
+- [Skin to Skin](https://www.youtube.com/watch?v=VPjdiY3SGe8)
 <!-- POP:END -->
 
 ## Connect With Me
