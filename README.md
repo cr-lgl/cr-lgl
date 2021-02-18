@@ -69,9 +69,12 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ## Hobby
 
-**Games:**  
-<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
-<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
+**Posts:**  
+<!-- BLOG:START -->
+- [Laravel 서비스 클래스에서 POPO 인자 사용하기](https://ceobe.dev/laravel-popo-request-for-service-layer/)
+- [Laravel에서 vue-meta 라이브러리를 사용해 SSR 처리하기](https://ceobe.dev/laravel-ssr-with-vue-meta/)
+- [Docker for Mac 속도 개선하기](https://ceobe.dev/speed-up-docker-for-mac/)
+<!-- BLOG:END -->
 
 **Musics:**  
 <!-- PLAYLIST:START -->
@@ -92,12 +95,9 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 - [4cm (Feat. Wilcox)](https://www.youtube.com/watch?v=Ao8pGi6yN_k)
 <!-- PLAYLIST:END -->
 
-**Posts:**
-<!-- BLOG:START -->
-- [Laravel 서비스 클래스에서 POPO 인자 사용하기](https://ceobe.dev/laravel-popo-request-for-service-layer/)
-- [Laravel에서 vue-meta 라이브러리를 사용해 SSR 처리하기](https://ceobe.dev/laravel-ssr-with-vue-meta/)
-- [Docker for Mac 속도 개선하기](https://ceobe.dev/speed-up-docker-for-mac/)
-<!-- BLOG:END -->
+**Games:**  
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
 
 ## Connect With Me
 https://www.notion.so/8cd33b6091d94622a754aff11832282c
