@@ -94,6 +94,9 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 **Posts:**
 <!-- BLOG:START -->
+- [Laravel 서비스 클래스에서 POPO 인자 사용하기](https://ceobe.dev/laravel-popo-request-for-service-layer/)
+- [Laravel에서 vue-meta 라이브러리를 사용해 SSR 처리하기](https://ceobe.dev/laravel-ssr-with-vue-meta/)
+- [Docker for Mac 속도 개선하기](https://ceobe.dev/speed-up-docker-for-mac/)
 <!-- BLOG:END -->
 
 ## Connect With Me
