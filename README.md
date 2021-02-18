@@ -73,5 +73,14 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 <img src="assets/arknights.svg" width="40" height="40" />
 <img src="assets/lol.jpg" width="40" height="40" />
 
+**Musics:**  
+__K-pop__
+<!-- KPOP:START -->
+<!-- KPOP:END -->
+
+__Pop__
+<!-- POP:START -->
+<!-- POP:END -->
+
 ## Connect With Me
 https://www.notion.so/8cd33b6091d94622a754aff11832282c
