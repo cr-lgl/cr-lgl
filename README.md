@@ -85,6 +85,11 @@ __K-pop__
 
 __Pop__
 <!-- POP:START -->
+- [It's Ok If You Forget Me](https://www.youtube.com/watch?v=_J5qV8EMii4)
+- [Lie](https://www.youtube.com/watch?v=J5DNZ2r5Sx4)
+- [Brooklyn Love](https://www.youtube.com/watch?v=XK0aP3brQuY)
+- [Under / Over](https://www.youtube.com/watch?v=GE2Q0_8KcWM)
+- [Bubble](https://www.youtube.com/watch?v=hIETwSeJoNQ)
 <!-- POP:END -->
 
 ## Connect With Me
