@@ -6,20 +6,20 @@
 - You can know more about me through [my blog](https://ceobe.dev/about).
 
 ## Skill Set
-**Main Skills:**  
+#### Main Skills: 
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/php.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/composer.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/laravel.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/doctrine.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/symfony.svg?raw=true" width="40" height="40"/>
 
-**Interesting:**  
+#### Interesting: 
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/java.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/kotlin.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/gradle.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/spring.svg?raw=true" width="40" height="40"/>
 
-**Others:**  
+#### Others: 
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/docker.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/codeigniter.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/node.svg?raw=true" width="40" height="40"/>
@@ -46,7 +46,7 @@
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/slack.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/chrome.svg?raw=true" width="40" height="40"/>
 
-**IDE:**  
+#### IDE: 
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/phpstorm.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webstorm.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/intellij.svg?raw=true" width="40" height="40"/>
@@ -69,12 +69,12 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ## Hobby
 
-**Games:**  
-<img src="assets/arknights.svg" width="40" height="40" />
-<img src="assets/lol.jpg" width="40" height="40" />
+#### Games: 
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
 
-**Musics:**  
-__K-pop__
+#### Musics: 
+###### K-pop
 <!-- KPOP:START -->
 - [Like a Joke (Feat. Jae Luna, amin)](https://www.youtube.com/watch?v=n9xduxcEjP8)
 - [Autumn breeze (Feat. Milky Day)](https://www.youtube.com/watch?v=Xp6i0hh-Xb4)
@@ -83,7 +83,7 @@ __K-pop__
 - [Mm Mm (Prod. Cosmic Boy)](https://www.youtube.com/watch?v=PIYxMzrjJMs)
 <!-- KPOP:END -->
 
-__Pop__
+###### Pop
 <!-- POP:START -->
 - [It's Ok If You Forget Me](https://www.youtube.com/watch?v=_J5qV8EMii4)
 - [Lie](https://www.youtube.com/watch?v=J5DNZ2r5Sx4)
