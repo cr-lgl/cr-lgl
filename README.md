@@ -6,7 +6,7 @@
 - You can know more about me through [my blog](https://ceobe.dev/about).
 
 ## Skill Set
-**Skills:**  
+**Main Skills:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/php.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/composer.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/laravel.svg?raw=true" width="40" height="40"/>
