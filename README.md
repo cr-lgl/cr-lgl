@@ -76,6 +76,11 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 **Musics:**  
 __K-pop__
 <!-- KPOP:START -->
+- [Like a Joke (Feat. Jae Luna, amin)](https://www.youtube.com/watch?v=n9xduxcEjP8)
+- [Autumn breeze (Feat. Milky Day)](https://www.youtube.com/watch?v=Xp6i0hh-Xb4)
+- [See you (with Noair, Nason)](https://www.youtube.com/watch?v=5ogEEJxWVUA)
+- [500 Days (Feat. Jae Luna & I AM LUU)](https://www.youtube.com/watch?v=bk2CyuPqzL8)
+- [Mm Mm (Prod. Cosmic Boy)](https://www.youtube.com/watch?v=PIYxMzrjJMs)
 <!-- KPOP:END -->
 
 __Pop__
