@@ -6,20 +6,20 @@
 - You can know more about me through [my blog](https://ceobe.dev/about).
 
 ## Skill Set
-#### Main Skills: 
+**Main Skills:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/php.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/composer.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/laravel.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/doctrine.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/symfony.svg?raw=true" width="40" height="40"/>
 
-#### Interesting: 
+**Interesting:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/java.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/kotlin.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/gradle.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/spring.svg?raw=true" width="40" height="40"/>
 
-#### Others: 
+**Others:**.  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/docker.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/codeigniter.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/node.svg?raw=true" width="40" height="40"/>
@@ -69,9 +69,11 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 ## Hobby
 
-#### Games: 
+#### Games:
+<p>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
+</p>
 
 #### Musics: 
 ###### K-pop
