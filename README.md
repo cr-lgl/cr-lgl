@@ -97,7 +97,7 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 
 **Games:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/arknights.svg?raw=true" width="40" height="40"/>
-<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.jpg?raw=true" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.png?raw=true" width="40" height="40"/>
 
 ## Connect With Me
 https://www.notion.so/8cd33b6091d94622a754aff11832282c
