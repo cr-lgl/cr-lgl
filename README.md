@@ -16,7 +16,7 @@
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/gradle.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/spring.svg?raw=true" width="40" height="40"/>
 
-**Others:**
+**Others:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/docker.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/codeigniter.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/node.svg?raw=true" width="40" height="40"/>
