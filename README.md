@@ -100,4 +100,6 @@ Makefile   10 mins         ░░░░░░░░░░░░░░░░░�
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/lol.png?raw=true" alt="league of legends" width="40" height="40"/>
 
 ## Connect With Me
-https://www.notion.so/8cd33b6091d94622a754aff11832282c
+<a href="https://www.notion.so/8cd33b6091d94622a754aff11832282c">
+<img src="https://img.shields.io/badge/-notion-lightgrey?style=flat-square&logo=notion&link=https://www.notion.so/8cd33b6091d94622a754aff11832282c" alt="https://www.notion.so/8cd33b6091d94622a754aff11832282c"/>
+</a>
