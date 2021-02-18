@@ -43,7 +43,7 @@
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/slack.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/chrome.svg?raw=true" width="40" height="40"/>
 
-**IDE:**
+**IDE:**  
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/phpstorm.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webstorm.svg?raw=true" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/intellij.svg?raw=true" width="40" height="40"/>
