@@ -2,7 +2,7 @@
 
 ![image](https://github.com/cr-lgl/cr-lgl/blob/master/header.png?raw=true)
 
-- I am currently working at [MeshKorea](https://meshkorea.net/kr/index.html).
+- I'm currently working at [MeshKorea](https://meshkorea.net/kr/index.html).
 - You can know more about me through [my blog](https://ceobe.dev/about).
 
 ## Skill Set
