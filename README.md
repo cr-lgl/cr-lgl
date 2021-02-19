@@ -29,7 +29,7 @@
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/webpack.svg?raw=true" alt="webpack" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/babel.svg?raw=true" alt="babel" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/vuejs.svg?raw=true" alt="vuejs" width="40" height="40"/>
-<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/nuxt.svg?raw=true" alt="nuxt" width="40" height="40"/>
+<img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/nuxt.png?raw=true" alt="nuxt" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/jquery.svg?raw=true" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/html5.svg?raw=true" alt="html5" width="40" height="40"/>
 <img src="https://github.com/cr-lgl/cr-lgl/blob/master/assets/css3.svg?raw=true" alt="css3" width="40" height="40"/>
