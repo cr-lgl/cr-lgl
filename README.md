@@ -83,6 +83,7 @@ Docker     11 mins         ░░░░░░░░░░░░░░░░░�
 - [Like Aewol](https://www.youtube.com/watch?v=CZVGLbTksLc)
 - [Let It Go](https://www.youtube.com/watch?v=SvTnyKhzTnY)
 - [flying to the moon](https://www.youtube.com/watch?v=qO2czBgBioY)
+- [Sunrise (Feat. EunBii)](https://www.youtube.com/watch?v=LlBtq5N2T04)
 - [Thinking of me (Feat. Skinny Brown)](https://www.youtube.com/watch?v=a42Cz5iX48U)
 - [Escape (Feat. Grizzly)](https://www.youtube.com/watch?v=TwwKNEPC8FM)
 - [소나기 Flashback](https://www.youtube.com/watch?v=6MX2w8oK4pE)
@@ -91,7 +92,6 @@ Docker     11 mins         ░░░░░░░░░░░░░░░░░�
 - [OCEAN (너의 바다 (Feat. 김호연))](https://www.youtube.com/watch?v=BL86DLQscCg)
 - [YOU](https://www.youtube.com/watch?v=hjgLf7VEXuU)
 - [Look At Me Now](https://www.youtube.com/watch?v=RWabpd7ah5E)
-- [Now (너의 지금)](https://www.youtube.com/watch?v=NBtdL4Idl3M)
 - [Straw](https://www.youtube.com/watch?v=qgiyGQ5skq0)
 - [4cm (Feat. Wilcox)](https://www.youtube.com/watch?v=Ao8pGi6yN_k)
 <!-- PLAYLIST:END -->
