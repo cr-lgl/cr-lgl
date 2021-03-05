@@ -79,19 +79,19 @@ Makefile   3 mins          ░░░░░░░░░░░░░░░░░�
 
 **Musics:**  
 <!-- PLAYLIST:START -->
-- [why (Feat. Jayci yucca)](https://www.youtube.com/watch?v=IdGv9sPOnms)
+- [내일이 오지 않았으면 좋겠다 - 서구름](https://www.youtube.com/watch?v=rYqTXPi4unA)
+- [As Much As I Love You](https://www.youtube.com/watch?v=KkGrA22zlXY)
+- [My Yellow](https://www.youtube.com/watch?v=rYd-ibx0gzM)
 - [Like Aewol](https://www.youtube.com/watch?v=CZVGLbTksLc)
 - [Let It Go](https://www.youtube.com/watch?v=SvTnyKhzTnY)
-- [flying to the moon](https://www.youtube.com/watch?v=qO2czBgBioY)
 - [Sunrise (Feat. EunBii)](https://www.youtube.com/watch?v=LlBtq5N2T04)
-- [Thinking of me (Feat. Skinny Brown)](https://www.youtube.com/watch?v=a42Cz5iX48U)
 - [Escape (Feat. Grizzly)](https://www.youtube.com/watch?v=TwwKNEPC8FM)
-- [소나기 Flashback](https://www.youtube.com/watch?v=6MX2w8oK4pE)
 - [고마워 THX](https://www.youtube.com/watch?v=MgR0TazDSVs)
-- [Insomnia (feat. YAYYOUNG)](https://www.youtube.com/watch?v=UgN8JJrsNwE)
+- [AURA (feat. pH-1) (Prod. GXXD) (AURA (feat. pH-1) (Prod. GXXD))](https://www.youtube.com/watch?v=hYF0uUEcCy0)
 - [OCEAN (너의 바다 (Feat. 김호연))](https://www.youtube.com/watch?v=BL86DLQscCg)
-- [YOU](https://www.youtube.com/watch?v=hjgLf7VEXuU)
 - [Look At Me Now](https://www.youtube.com/watch?v=RWabpd7ah5E)
+- [Dive (바다)](https://www.youtube.com/watch?v=KbIVGEFb6DQ)
+- [이해해줘 (feat. Hash swan)](https://www.youtube.com/watch?v=TnE5DiutWvw)
 - [Straw](https://www.youtube.com/watch?v=qgiyGQ5skq0)
 - [4cm (Feat. Wilcox)](https://www.youtube.com/watch?v=Ao8pGi6yN_k)
 <!-- PLAYLIST:END -->
