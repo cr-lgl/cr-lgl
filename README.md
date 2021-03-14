@@ -60,7 +60,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+Markdown   0 secs          █████████████████████████   99.50 % 
+PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 <!--END_SECTION:waka-->
 
