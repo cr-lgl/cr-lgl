@@ -60,8 +60,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   0 secs          ████████████████████████░   99.02 % 
-PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
