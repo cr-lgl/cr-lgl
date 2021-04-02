@@ -60,7 +60,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker   33 mins         ███████░░░░░░░░░░░░░░░░░░   31.40 % 
+Vue.js   22 mins         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Other    11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+PHP      10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+YAML     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 ```
 <!--END_SECTION:waka-->
 
