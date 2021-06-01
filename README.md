@@ -79,21 +79,21 @@ Bash     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 **Musics:**  
 <!-- PLAYLIST:START -->
-- [내일이 오지 않았으면 좋겠다 - 서구름](https://www.youtube.com/watch?v=rYqTXPi4unA)
+- [Action (feat.chaeree)](https://www.youtube.com/watch?v=TkjZQvjSDAI)
+- [Customizing](https://www.youtube.com/watch?v=gHca8E0Mom0)
+- [I Feel Your Love](https://www.youtube.com/watch?v=tVdn__Ymo8c)
+- [Hotel Lobby ft. Verbal Jint](https://www.youtube.com/watch?v=5azgqxbkouY)
+- [I Shouldn't Have (하지말걸)](https://www.youtube.com/watch?v=9ZaDSPfI2ck)
+- [fuxxin' love (2019)](https://www.youtube.com/watch?v=MNuoDHbmIRk)
 - [As Much As I Love You](https://www.youtube.com/watch?v=KkGrA22zlXY)
-- [My Yellow](https://www.youtube.com/watch?v=rYd-ibx0gzM)
-- [Like Aewol](https://www.youtube.com/watch?v=CZVGLbTksLc)
-- [Let It Go](https://www.youtube.com/watch?v=SvTnyKhzTnY)
+- [일회용품](https://www.youtube.com/watch?v=AsWVGnn6ssQ)
+- [knock (Art. Bamsem (밤샘))](https://www.youtube.com/watch?v=7E4fGfd_elA)
+- [365](https://www.youtube.com/watch?v=R6huiXA-G_E)
 - [Sunrise (Feat. EunBii)](https://www.youtube.com/watch?v=LlBtq5N2T04)
-- [Escape (Feat. Grizzly)](https://www.youtube.com/watch?v=TwwKNEPC8FM)
-- [고마워 THX](https://www.youtube.com/watch?v=MgR0TazDSVs)
-- [AURA (feat. pH-1) (Prod. GXXD) (AURA (feat. pH-1) (Prod. GXXD))](https://www.youtube.com/watch?v=hYF0uUEcCy0)
-- [OCEAN (너의 바다 (Feat. 김호연))](https://www.youtube.com/watch?v=BL86DLQscCg)
-- [Look At Me Now](https://www.youtube.com/watch?v=RWabpd7ah5E)
-- [Dive (바다)](https://www.youtube.com/watch?v=KbIVGEFb6DQ)
-- [이해해줘 (feat. Hash swan)](https://www.youtube.com/watch?v=TnE5DiutWvw)
+- [Tree (feat. Sam Rui)](https://www.youtube.com/watch?v=gfOPpgdWgkw)
+- [Between](https://www.youtube.com/watch?v=nlkvves7nn0)
+- [Now (너의 지금)](https://www.youtube.com/watch?v=NBtdL4Idl3M)
 - [Straw](https://www.youtube.com/watch?v=qgiyGQ5skq0)
-- [4cm (Feat. Wilcox)](https://www.youtube.com/watch?v=Ao8pGi6yN_k)
 <!-- PLAYLIST:END -->
 
 **Games:**  
