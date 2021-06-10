@@ -60,8 +60,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         0 secs          █████████████░░░░░░░░░░░░   52.65 % 
-Properties   0 secs          ███████████░░░░░░░░░░░░░░   47.35 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
