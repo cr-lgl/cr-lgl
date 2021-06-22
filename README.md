@@ -60,11 +60,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP          41 mins         ███████████████████░░░░░░   78.61 % 
-Java         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
