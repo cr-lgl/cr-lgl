@@ -60,11 +60,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML       6 mins          █████████████░░░░░░░░░░░░   55.14 % 
-Makefile   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-PHP        2 mins          ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
