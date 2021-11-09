@@ -75,20 +75,20 @@ No Activity tracked this Week
 
 **Musics:**  
 <!-- PLAYLIST:START -->
-- [Action (feat.chaeree)](https://www.youtube.com/watch?v=TkjZQvjSDAI)
+- [Action &lpar;feat.chaeree&rpar;](https://www.youtube.com/watch?v=TkjZQvjSDAI)
 - [Customizing](https://www.youtube.com/watch?v=gHca8E0Mom0)
 - [I Feel Your Love](https://www.youtube.com/watch?v=tVdn__Ymo8c)
 - [Hotel Lobby ft. Verbal Jint](https://www.youtube.com/watch?v=5azgqxbkouY)
-- [I Shouldn't Have (하지말걸)](https://www.youtube.com/watch?v=9ZaDSPfI2ck)
-- [fuxxin' love (2019)](https://www.youtube.com/watch?v=MNuoDHbmIRk)
+- [I Shouldn&#39;t Have &lpar;하지말걸&rpar;](https://www.youtube.com/watch?v=9ZaDSPfI2ck)
+- [fuxxin&#39; love &lpar;2019&rpar;](https://www.youtube.com/watch?v=MNuoDHbmIRk)
 - [As Much As I Love You](https://www.youtube.com/watch?v=KkGrA22zlXY)
 - [일회용품](https://www.youtube.com/watch?v=AsWVGnn6ssQ)
-- [knock (Art. Bamsem (밤샘))](https://www.youtube.com/watch?v=7E4fGfd_elA)
-- [365 (feat. dana kim)](https://www.youtube.com/watch?v=R6huiXA-G_E)
-- [Sunrise (Feat. EunBii)](https://www.youtube.com/watch?v=LlBtq5N2T04)
-- [Tree (feat. Sam Rui)](https://www.youtube.com/watch?v=gfOPpgdWgkw)
+- [knock &lpar;Art. Bamsem &lpar;밤샘&rpar;&rpar;](https://www.youtube.com/watch?v=7E4fGfd_elA)
+- [365 &lpar;feat. dana kim&rpar;](https://www.youtube.com/watch?v=R6huiXA-G_E)
+- [Sunrise &lpar;Feat. EunBii&rpar;](https://www.youtube.com/watch?v=LlBtq5N2T04)
+- [Tree &lpar;feat. Sam Rui&rpar;](https://www.youtube.com/watch?v=gfOPpgdWgkw)
 - [Between](https://www.youtube.com/watch?v=nlkvves7nn0)
-- [Now (너의 지금)](https://www.youtube.com/watch?v=NBtdL4Idl3M)
+- [Now &lpar;너의 지금&rpar;](https://www.youtube.com/watch?v=NBtdL4Idl3M)
 - [Straw](https://www.youtube.com/watch?v=qgiyGQ5skq0)
 <!-- PLAYLIST:END -->
 
